@@ -12,6 +12,7 @@ http://pobre.tk/p/i/c/16-filtro-aede-para-http-switchboard-aede-switched
 
 Para obtener HTTP Switchboard, [visitar https://github.com/gorhill/httpswitchboard]
 [visitar https://github.com/gorhill/httpswitchboard]:https://github.com/gorhill/httpswitchboard
+Cualquier duda, leer el manual en su [wiki]
 
 
 Agradecimientos:
@@ -24,3 +25,4 @@ Agradecimientos:
 *Gracias*
 [@julioelpoeta]:https://twitter.com/julioelpoeta
 [https://twitter.com/CanonAEDE_NO]:https://twitter.com/CanonAEDE_NO
+[wiki]:https://github.com/gorhill/httpswitchboard/wiki
