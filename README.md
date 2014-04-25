@@ -16,9 +16,11 @@ Para obtener HTTP Switchboard, [visitar https://github.com/gorhill/httpswitchboa
 
 Agradecimientos:
 ----
-- [@julioelpoeta]:https://twitter.com/julioelpoeta
-- [https://twitter.com/CanonAEDE_NO]:https://twitter.com/CanonAEDE_NO
+- [@julioelpoeta]
+- [https://twitter.com/CanonAEDE_NO]
 
 
 ---
 *Gracias*
+[@julioelpoeta]:https://twitter.com/julioelpoeta
+[https://twitter.com/CanonAEDE_NO]:https://twitter.com/CanonAEDE_NO
