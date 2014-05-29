@@ -17,7 +17,7 @@ Cualquier duda, leer el manual en su [wiki]
 
 Agradecimientos:
 ----
-- [@julioelpoeta]
+- [@j3j5]
 - [https://twitter.com/CanonAEDE_NO]
 
 
