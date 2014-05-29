@@ -23,6 +23,6 @@ Agradecimientos:
 
 ---
 *Gracias*
-[@julioelpoeta]:https://twitter.com/julioelpoeta
+[@j3j5]:https://github.com/j3j5
 [https://twitter.com/CanonAEDE_NO]:https://twitter.com/CanonAEDE_NO
 [wiki]:https://github.com/gorhill/httpswitchboard/wiki
